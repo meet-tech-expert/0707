@@ -11,7 +11,7 @@
     "gridsome": "^0.7.0",
     "jquery": "^3.4.1",
     "jquery-modal": "^0.9.2",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.2",
     "vue-fullpage.js": "^0.1.4",
     "vue-slick": "^1.1.15"
   },
